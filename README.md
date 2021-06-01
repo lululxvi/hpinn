@@ -20,10 +20,10 @@ If you use this code for academic research, you are encouraged to cite the follo
 
 ```
 @article{lu2021physics,
-  title={Physics-informed neural networks with hard constraints for inverse design},
-  author={Lu, Lu and Pestourie, Raphael and Yao, Wenjie and Wang, Zhicheng and Verdugo, Francesc and Johnson, Steven G},
-  journal={arXiv preprint arXiv:2102.04626},
-  year={2021}
+  title   = {Physics-informed neural networks with hard constraints for inverse design},
+  author  = {Lu, Lu and Pestourie, Raphael and Yao, Wenjie and Wang, Zhicheng and Verdugo, Francesc and Johnson, Steven G},
+  journal = {arXiv preprint arXiv:2102.04626},
+  year    = {2021}
 }
 ```
 
