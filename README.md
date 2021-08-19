@@ -6,13 +6,13 @@ The source code for the paper [L. Lu, R. Pestourie, W. Yao, Z. Wang, F. Verdugo,
 
 ### Holography
 
-- hPINN
+- [hPINN](holography)
 - FDFD: [Jupyter Notebook](FDFD/inverse_design_FDFD-epsstart-eps1.ipynb)
 - FEM: [Jupyter Notebook](FEM/Main.ipynb)
 
 ### Fluids in Stokes flow
 
-- hPINN
+- [hPINN](stokes/stokes.py)
 
 ## Cite this work
 
