@@ -4,6 +4,8 @@ The source code for the paper [L. Lu, R. Pestourie, W. Yao, Z. Wang, F. Verdugo,
 
 ## Code
 
+The code depends on the deep learning package [DeepXDE](https://github.com/lululxvi/deepxde) v0.9.1. If you want to use the latest DeepXDE, you need to modify the code.
+
 ### Holography
 
 - [hPINN](holography)
