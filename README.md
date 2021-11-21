@@ -1,6 +1,6 @@
 # hPINN: Physics-informed neural networks with hard constraints
 
-The source code for the paper [L. Lu, R. Pestourie, W. Yao, Z. Wang, F. Verdugo, & S. G. Johnson. Physics-informed neural networks with hard constraints for inverse design. *arXiv preprint arXiv:2102.04626*, 2021](https://arxiv.org/abs/2102.04626).
+The source code for the paper [L. Lu, R. Pestourie, W. Yao, Z. Wang, F. Verdugo, & S. G. Johnson. Physics-informed neural networks with hard constraints for inverse design. *SIAM Journal on Scientific Computing*, 43(6), B1105--B1132, 2021.](https://doi.org/10.1137/21M1397908).
 
 ## Code
 
@@ -24,8 +24,12 @@ If you use this code for academic research, you are encouraged to cite the follo
 @article{lu2021physics,
   title   = {Physics-informed neural networks with hard constraints for inverse design},
   author  = {Lu, Lu and Pestourie, Raphael and Yao, Wenjie and Wang, Zhicheng and Verdugo, Francesc and Johnson, Steven G},
-  journal = {arXiv preprint arXiv:2102.04626},
-  year    = {2021}
+  journal = {SIAM Journal on Scientific Computing},
+  volume  = {43},
+  number  = {6},
+  pages   = {B1105-B1132},
+  year    = {2021},
+  doi     = {10.1137/21M1397908}
 }
 ```
 
